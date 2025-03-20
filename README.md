@@ -34,4 +34,4 @@ This project builds upon the work from scroll-tech/ceno, reusing the sumcheck an
 
 For more technical details and usage instructions, dive into the [ZKML README](zkml/README.md).
 
-Happy proving! 🎉
+Happy proving! 🎉!!!
